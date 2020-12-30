@@ -6,8 +6,6 @@ A frontend assignment task, developed for apli Internship.
 
 *Next Previous Button Fixed
 
-Click Below link 
-https://sourabhsing3.github.io/
 
 
 
